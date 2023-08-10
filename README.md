@@ -1,11 +1,10 @@
 ### Hi there 👋
-
 <!--
 **Mukesh751/Mukesh751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Mukesh751's GitHub | Stats](https://stats.quine.sh/Mukesh751/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Mukesh751)
+
+[![Mukesh751's GitHub | Languages Over Time](https://stats.quine.sh/Mukesh751/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Mukesh751)
+
+[![Mukesh751's GitHub | Topics Over Time](https://stats.quine.sh/Mukesh751/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Mukesh751)
