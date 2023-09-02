@@ -13,7 +13,7 @@
 
 - 💬 Ask me about : **React**
 
-- 📫 How to reach me : **mukeshkumarsahu.mks.official@gmail.com**
+- 📫 How to reach me : **https://www.linkedin.com/in/mukesh751/**
 
 - ⚡ Fun fact : **I'm still a rookie**
 
